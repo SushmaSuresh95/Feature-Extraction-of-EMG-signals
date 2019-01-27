@@ -1,4 +1,5 @@
 # Feature-Extraction-of-EMG-signals
+
 The Code is scripted using MATLAB and can extract more than 20 features from the signal .
 
 % (1) MEAN ABSOLUTE VALUE/ INTEGRAL OF ABSOLUTE VALUE(IAV)
@@ -39,7 +40,7 @@ The Code is scripted using MATLAB and can extract more than 20 features from the
 
 % (19) V-ORDER
 
-% (20) Myopulse Percentage Rate
+% (20) MYOPULSE PERCENTAGE RATE
 
 % (21) TEMPORAL MOMENT 3
 
