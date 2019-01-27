@@ -2,27 +2,50 @@
 The Code is scripted using MATLAB and can extract more than 20 features from the signal .
 
 % (1) MEAN ABSOLUTE VALUE/ INTEGRAL OF ABSOLUTE VALUE(IAV)
+
 % (2) RMS VALUE
+
 % (3) VARIANCE
+
 % (4) STANDARD DEVIATION
+
 % (5) KURTOSIS
+
 % (6) SKEWNESS
+
 % (7) WILLISON AMPLITUDE
+
 % (8) NUMBER OF TURNS
+
 % (9) ZERO CROSSING
+
 % (10) WAVEFORM LENGTH
+
 % (11) MEAN FREQUENCY
+
 % (12) MEDIAN FREQUENCY
+
 % (13) SIGNAL TO NOISE RATIO
+
 % (14) MEAN ABSOLUTE DEVIATION
+
 % (15) MEDIAN ABSOLUTE DEVIATION
+
 % (16) SIMPLE SQUARE INTEGRAL
+
 % (17) AVERAGE AMPLITUDE CHANGE
+
 % (18) DIFFERENCE ABSOLUTE STANDARD DEVIATION VALUE
+
 % (19) V-ORDER
+
 % (20) Myopulse Percentage Rate
+
 % (21) TEMPORAL MOMENT 3
+
 % (22) TEMPORAL MOMENT 5
+
 % (23) AUTO-REGRESSION COEFFICIENTS
+
 
 By editing the filename, Sheet and Range one can directly save the values in an excel file!
